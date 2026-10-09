@@ -123,4 +123,4 @@ El botón verde en la sección Inicio rápido.
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*patient-bridge-173 · Actualizado 2026-10-08 · Compartido bajo licencia MIT*
+*patient-bridge-173 · Actualizado 2026-10-09 · Compartido bajo licencia MIT*
